@@ -1,1 +1,1 @@
-# GGP_Android
+# Shopping-GGP-Android
